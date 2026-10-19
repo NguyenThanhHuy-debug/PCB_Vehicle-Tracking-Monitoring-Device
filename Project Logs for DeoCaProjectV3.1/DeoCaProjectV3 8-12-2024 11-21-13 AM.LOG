@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=L3 Old Footprint=L0420 New Footprint=L0630
-Change component parameters: Designator = "L3" ("L3"); Footprint = "L0420"; UniqueID = "\OHTQHCOF\XGNGHRLR" ("\OHTQHCOF\XGNGHRLR")
-Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "MP"; Value = "74437368047"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Package"; Value = "Nonstandard Wurth Electronics"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74437368047/Wurth%20Electronics%20Inc./view-part/286863/?ref=snap"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

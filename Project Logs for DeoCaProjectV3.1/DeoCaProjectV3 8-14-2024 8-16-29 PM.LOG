@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=D? NewDesignator=D3
-Added Component: Designator=TP3(TestPoint_1MM)
-Added Pin To Net: NetName=3V Pin=TP3-1
-Change Net Name : Old Net Name=NetD?_A New Net Name=NetD3_A
-PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm
-PCB-ECO: Change Pad Pin/Pkg Length: Old=1mm New=0mm

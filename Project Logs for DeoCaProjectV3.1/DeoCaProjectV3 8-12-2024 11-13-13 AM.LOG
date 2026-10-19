@@ -1,9 +1,0 @@
-Change Component Comment : Designator=M4 Old Comment=P0603BDL New Comment=STD10PF06T4
-Change Component Comment : Designator=M1 Old Comment=SI2300DS New Comment=NC/IRLML6402TRPBF-CN
-Change component parameters: Designator = "M1" ("M1"); Footprint = "SOT23"; UniqueID = "\OHTQHCOF\EKYUXHAD" ("\OHTQHCOF\EKYUXHAD")
-Change component parameters (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MOSFETP"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "LibraryName"; Value = "Uy_SMD"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "Package"; Value = "SOT23(1)"; VariantName = "[No Variations]"
-Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MOSFET_P"; VariantName = "[No Variations]"
