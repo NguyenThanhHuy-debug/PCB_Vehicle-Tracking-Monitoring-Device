@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=4V_TPS Pin=C16-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=H6-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=H6-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=ST_TX2 Pin=H?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=ST_RX2 Pin=H?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=H?-3
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=4V_TPS Pin=IC3-1
+Removed Pin From Net: NetName=4V_TPS Pin=IC3-3
+Removed Pin From Net: NetName=3V Pin=IC7-6
+Removed Pin From Net: NetName=GND Pin=IC7-10
+Removed Pin From Net: NetName=3V Pin=IC7-11
+Removed Pin From Net: NetName=OSCIN Pin=IC7-12
+Removed Pin From Net: NetName=OSCOUT Pin=IC7-13
+Removed Pin From Net: NetName=RST Pin=IC7-14
+Removed Pin From Net: NetName=ST_SW1 Pin=IC7-16
+Removed Pin From Net: NetName=ST_ACC Pin=IC7-17
+Removed Pin From Net: NetName=3V Pin=IC7-19
+Removed Pin From Net: NetName=GND Pin=IC7-20
+Removed Pin From Net: NetName=3V Pin=IC7-21
+Removed Pin From Net: NetName=3V Pin=IC7-22
+Removed Pin From Net: NetName=ST_TX2 Pin=IC7-25
+Removed Pin From Net: NetName=ST_RX2 Pin=IC7-26
+Removed Pin From Net: NetName=GND Pin=IC7-27
+Removed Pin From Net: NetName=3V Pin=IC7-28
+Removed Pin From Net: NetName=SD_CS Pin=IC7-29
+Removed Pin From Net: NetName=SPI1_SCK Pin=IC7-30
+Removed Pin From Net: NetName=SPI1_MISO Pin=IC7-31
+Removed Pin From Net: NetName=SPI1_MOSI Pin=IC7-32
+Removed Pin From Net: NetName=SD_CD Pin=IC7-33
+Removed Pin From Net: NetName=BUZZER Pin=IC7-36
+Removed Pin From Net: NetName=BOOT1 Pin=IC7-37
+Removed Pin From Net: NetName=ST_SIM_HRST Pin=IC7-39
+Removed Pin From Net: NetName=VCAP1 Pin=IC7-49
+Removed Pin From Net: NetName=3V Pin=IC7-50
+Removed Pin From Net: NetName=ST_TX6 Pin=IC7-63
+Removed Pin From Net: NetName=ST_RX6 Pin=IC7-64
+Removed Pin From Net: NetName=CAN_RX Pin=IC7-70
+Removed Pin From Net: NetName=CAN_TX Pin=IC7-71
+Removed Pin From Net: NetName=SWIO Pin=IC7-72
+Removed Pin From Net: NetName=VCAP2 Pin=IC7-73
+Removed Pin From Net: NetName=GND Pin=IC7-74
+Removed Pin From Net: NetName=3V Pin=IC7-75
+Removed Pin From Net: NetName=SWCLK Pin=IC7-76
+Removed Pin From Net: NetName=LED_PWR Pin=IC7-84
+Removed Pin From Net: NetName=SENSOR_OK Pin=IC7-85
+Removed Pin From Net: NetName=LED_DRIVER Pin=IC7-86
+Removed Pin From Net: NetName=LED_SERVER Pin=IC7-87
+Removed Pin From Net: NetName=I2C1_SCL Pin=IC7-92
+Removed Pin From Net: NetName=I2C1_SDA Pin=IC7-93
+Removed Pin From Net: NetName=BOOT0 Pin=IC7-94
+Removed Pin From Net: NetName=GND Pin=IC7-99
+Removed Pin From Net: NetName=3V Pin=IC7-100
+Removed Pin From Net: NetName=NetC7_1 Pin=L5-1
+Removed Pin From Net: NetName=6-30V Pin=L5-2
+Removed Pin From Net: NetName=GND Pin=R28-1
+Change Component Comment : Designator=R29 Old Comment=4.7K New Comment=47K
+Change Component Comment : Designator=R28 Old Comment=47K New Comment=4.7K
+Added Component: Designator=H5(MALEPIN_1x3)
+Added Component: Designator=H7(MALEPIN_1x3)
+Added Component: Designator=H9(MALEPIN_1x3)
+Added Component: Designator=IC9(LQFP100)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F407VET6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F407VET6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-100 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F407VET6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F407VET6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(L0630)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74437368047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Nonstandard Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74437368047/Wurth%20Electronics%20Inc./view-part/286863/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C16-1
+Added Pin To Net: NetName=5V Pin=H5-1
+Added Pin To Net: NetName=VSEN Pin=H5-2
+Added Pin To Net: NetName=3V Pin=H5-3
+Added Pin To Net: NetName=ST_TX2 Pin=H7-1
+Added Pin To Net: NetName=ST_RX2 Pin=H7-2
+Added Pin To Net: NetName=GND Pin=H7-3
+Added Pin To Net: NetName=ST_TX6 Pin=H9-1
+Added Pin To Net: NetName=ST_RX6 Pin=H9-2
+Added Pin To Net: NetName=GND Pin=H9-3
+Added Pin To Net: NetName=5V Pin=IC3-1
+Added Pin To Net: NetName=5V Pin=IC3-3
+Added Pin To Net: NetName=3V Pin=IC9-6
+Added Pin To Net: NetName=GND Pin=IC9-10
+Added Pin To Net: NetName=3V Pin=IC9-11
+Added Pin To Net: NetName=OSCIN Pin=IC9-12
+Added Pin To Net: NetName=OSCOUT Pin=IC9-13
+Added Pin To Net: NetName=RST Pin=IC9-14
+Added Pin To Net: NetName=ST_SW1 Pin=IC9-16
+Added Pin To Net: NetName=ST_ACC Pin=IC9-17
+Added Pin To Net: NetName=3V Pin=IC9-19
+Added Pin To Net: NetName=GND Pin=IC9-20
+Added Pin To Net: NetName=3V Pin=IC9-21
+Added Pin To Net: NetName=3V Pin=IC9-22
+Added Pin To Net: NetName=ST_TX2 Pin=IC9-25
+Added Pin To Net: NetName=ST_RX2 Pin=IC9-26
+Added Pin To Net: NetName=GND Pin=IC9-27
+Added Pin To Net: NetName=3V Pin=IC9-28
+Added Pin To Net: NetName=SD_CS Pin=IC9-29
+Added Pin To Net: NetName=SPI1_SCK Pin=IC9-30
+Added Pin To Net: NetName=SPI1_MISO Pin=IC9-31
+Added Pin To Net: NetName=SPI1_MOSI Pin=IC9-32
+Added Pin To Net: NetName=SD_CD Pin=IC9-33
+Added Pin To Net: NetName=BUZZER Pin=IC9-36
+Added Pin To Net: NetName=BOOT1 Pin=IC9-37
+Added Pin To Net: NetName=ST_SIM_HRST Pin=IC9-39
+Added Pin To Net: NetName=VCAP1 Pin=IC9-49
+Added Pin To Net: NetName=3V Pin=IC9-50
+Added Pin To Net: NetName=ST_TX6 Pin=IC9-63
+Added Pin To Net: NetName=ST_RX6 Pin=IC9-64
+Added Pin To Net: NetName=CAN_RX Pin=IC9-70
+Added Pin To Net: NetName=CAN_TX Pin=IC9-71
+Added Pin To Net: NetName=SWIO Pin=IC9-72
+Added Pin To Net: NetName=VCAP2 Pin=IC9-73
+Added Pin To Net: NetName=GND Pin=IC9-74
+Added Pin To Net: NetName=3V Pin=IC9-75
+Added Pin To Net: NetName=SWCLK Pin=IC9-76
+Added Pin To Net: NetName=LED_PWR Pin=IC9-84
+Added Pin To Net: NetName=SENSOR_OK Pin=IC9-85
+Added Pin To Net: NetName=LED_DRIVER Pin=IC9-86
+Added Pin To Net: NetName=LED_SERVER Pin=IC9-87
+Added Pin To Net: NetName=BOOT0 Pin=IC9-94
+Added Pin To Net: NetName=GND Pin=IC9-99
+Added Pin To Net: NetName=3V Pin=IC9-100
+Added Pin To Net: NetName=NetC7_1 Pin=L4-1
+Added Pin To Net: NetName=6-30V Pin=L4-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Change Net Name : Old Net Name=ACC_PIN New Net Name=NetH1_1
+Change Net Name : Old Net Name=PW_INPUT New Net Name=NetF1_1
+Change Net Name : Old Net Name=ST_SIM_HRST New Net Name=NetIC9_39
+Change Net Name : Old Net Name=SW1 New Net Name=NetH1_2
+Added Pin To Net: NetName=NetH6_1 Pin=H6-1
+Added Pin To Net: NetName=NetH6_1 Pin=IC9-92
+Added Net: Name=NetH6_1
+Added Pin To Net: NetName=NetH6_2 Pin=H6-2
+Added Pin To Net: NetName=NetH6_2 Pin=IC9-93
+Added Net: Name=NetH6_2
+Added Pin To Net: NetName=NetIC6_51 Pin=IC6-51
+Added Pin To Net: NetName=NetIC6_51 Pin=R28-2
+Added Net: Name=NetIC6_51
+Added Pin To Net: NetName=NetIC7_9 Pin=IC7-9
+Added Pin To Net: NetName=NetIC7_9 Pin=IC9-69
+Added Net: Name=NetIC7_9
+Added Pin To Net: NetName=NetIC7_10 Pin=IC7-10
+Added Pin To Net: NetName=NetIC7_10 Pin=IC9-68
+Added Net: Name=NetIC7_10
+Added Pin To Net: NetName=NetIC7_11 Pin=IC7-11
+Added Pin To Net: NetName=NetIC7_11 Pin=IC9-23
+Added Net: Name=NetIC7_11
+Added Pin To Net: NetName=NetIC7_12 Pin=IC7-12
+Added Pin To Net: NetName=NetIC7_12 Pin=IC9-24
+Added Net: Name=NetIC7_12
+Added Pin To Net: NetName=NetIC9_34 Pin=IC9-34
+Added Pin To Net: NetName=NetIC9_34 Pin=R23-2
+Added Net: Name=NetIC9_34
+Added Pin To Net: NetName=NetIC9_35 Pin=IC9-35
+Added Pin To Net: NetName=NetIC9_35 Pin=R48-1
+Added Pin To Net: NetName=NetIC9_35 Pin=R64-1
+Added Net: Name=NetIC9_35
+Added Pin To Net: NetName=NetIC9_47 Pin=IC9-47
+Added Pin To Net: NetName=NetIC9_47 Pin=R19-2
+Added Net: Name=NetIC9_47
+Added Pin To Net: NetName=NetIC9_48 Pin=IC9-48
+Added Pin To Net: NetName=NetIC9_48 Pin=R7-2
+Added Net: Name=NetIC9_48
+Added Pin To Net: NetName=NetIC9_77 Pin=IC9-77
+Added Pin To Net: NetName=NetIC9_77 Pin=R22-2
+Added Net: Name=NetIC9_77
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=R29-2
+Added Pin To Net: NetName=NetR28_1 Pin=T5-1
+Added Net: Name=NetR28_1

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=H3-1
+Added Component: Designator=D?(SMAF)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SS54F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Uy_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMAF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "DIODE_S"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D?-C
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=H3-1
+Added Net: Name=NetD?_A

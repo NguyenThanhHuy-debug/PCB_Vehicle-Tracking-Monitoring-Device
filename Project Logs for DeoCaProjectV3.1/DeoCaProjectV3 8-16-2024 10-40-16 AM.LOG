@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=4V_TPS Pin=M?-2
+Removed Pin From Net: NetName=4V Pin=M?-3
+Change Component Designator: OldDesignator=M? NewDesignator=M4
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Added Component: Designator=M1(TO252-3)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOSFETN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Uy_SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT23(1)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MOSFET_N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4V_TPS Pin=M1-2
+Added Pin To Net: NetName=4V Pin=M1-3
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_1 Pin=M4-3
+Added Pin To Net: NetName=NetM1_1 Pin=R45-1
+Added Net: Name=NetM1_1

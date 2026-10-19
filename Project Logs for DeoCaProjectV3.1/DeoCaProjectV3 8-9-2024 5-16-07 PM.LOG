@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=5V Pin=BZ1-1
+Removed Pin From Net: NetName=5V Pin=C13-1
+Removed Pin From Net: NetName=5V Pin=C14-1
+Removed Pin From Net: NetName=4V_TPS Pin=C16-1
+Removed Pin From Net: NetName=3V Pin=C22-1
+Removed Pin From Net: NetName=5V Pin=C48-1
+Removed Pin From Net: NetName=ACC_PIN Pin=H1-1
+Removed Pin From Net: NetName=SW1 Pin=H1-2
+Removed Pin From Net: NetName=5V Pin=H3-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=H6-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=H6-2
+Removed Pin From Net: NetName=5V Pin=H?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=VSEN Pin=H?-2
+Removed Pin From Net: NetName=3V Pin=H?-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=4V_TPS Pin=IC3-1
+Removed Pin From Net: NetName=4V_TPS Pin=IC3-3
+Removed Pin From Net: NetName=3V Pin=IC3-5
+Removed Pin From Net: NetName=ST_TX4 Pin=IC7-11
+Removed Pin From Net: NetName=ST_RX4 Pin=IC7-12
+Removed Pin From Net: NetName=ST_TX2 Pin=IC7-25
+Removed Pin From Net: NetName=ST_RX2 Pin=IC7-26
+Removed Pin From Net: NetName=ST_SIM_STATUS Pin=IC7-35
+Removed Pin From Net: NetName=ST_SIM_HRST Pin=IC7-39
+Removed Pin From Net: NetName=ST_TX3 Pin=IC7-47
+Removed Pin From Net: NetName=ST_RX3 Pin=IC7-48
+Removed Pin From Net: NetName=CAN_RX Pin=IC7-70
+Removed Pin From Net: NetName=CAN_TX Pin=IC7-71
+Removed Pin From Net: NetName=5V Pin=IC8-3
+Removed Pin From Net: NetName=5V Pin=L2-2
+Removed Pin From Net: NetName=5V Pin=R15-2
+Removed Pin From Net: NetName=ST_SIM_PWR Pin=R22-2
+Removed Pin From Net: NetName=ST_SIM_RST Pin=R23-2
+Removed Pin From Net: NetName=LED_NET_A Pin=R27-1
+Removed Pin From Net: NetName=LED_NET_C Pin=T5-3
+Removed Pin From Net: NetName=5V Pin=TP2-1
+Added Component: Designator=H5(MALEPIN_1x3)
+Added Component: Designator=H7(MALEPIN_1x3)
+Added Component: Designator=H9(MALEPIN_1x3)
+Added Pin To Net: NetName=VSEN Pin=H5-2
+Added Pin To Net: NetName=ST_TX2 Pin=H7-1
+Added Pin To Net: NetName=ST_RX2 Pin=H7-2
+Added Pin To Net: NetName=GND Pin=H7-3
+Added Pin To Net: NetName=ST_TX6 Pin=H9-1
+Added Pin To Net: NetName=ST_RX6 Pin=H9-2
+Added Pin To Net: NetName=GND Pin=H9-3
+Change Net Name : Old Net Name=PW_INPUT New Net Name=NetF1_1
+Change Net Name : Old Net Name=ST_RX1 New Net Name=NetIC7_9
+Change Net Name : Old Net Name=ST_TX1 New Net Name=NetIC7_10
+Add Net: Net with name "5V" already exists
+Add Net: Net with name "5V" already exists
+Add Net: Net with name "ACC_PIN" already exists
+Add Net: Net with name "CAN_RX" already exists
+Add Net: Net with name "CAN_TX" already exists
+Add Net: Net with name "I2C1_SCL" already exists
+Add Net: Net with name "I2C1_SDA" already exists
+Add Net: Net with name "LED_NET_A" already exists
+Add Net: Net with name "LED_NET_C" already exists
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=H5-3
+Added Pin To Net: NetName=NetC22_1 Pin=IC3-5
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetIC7_11 Pin=IC7-11
+Added Net: Name=NetIC7_11
+Added Pin To Net: NetName=NetIC7_12 Pin=IC7-12
+Added Net: Name=NetIC7_12
+Add Net: Net with name "ST_RX2" already exists
+Add Net: Net with name "ST_RX3" already exists
+Add Net: Net with name "ST_SIM_HRST" already exists
+Add Net: Net with name "ST_SIM_PWR" already exists
+Add Net: Net with name "ST_SIM_RST" already exists
+Add Net: Net with name "ST_SIM_STATUS" already exists
+Add Net: Net with name "ST_TX2" already exists
+Add Net: Net with name "ST_TX3" already exists
+Add Net: Net with name "SW1" already exists
